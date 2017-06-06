@@ -1,0 +1,30 @@
+.page-content{
+    padding:45px;
+}
+
+td, th{
+    vertical-align: middle !important;
+    text-align: center;
+}
+
+.popup{
+    width: 100%;
+    height: 100%;
+    top:0;
+    position: fixed;
+    background:  rgba(0,0,0,0.7);
+}
+
+.popup-content{
+    margin:45px auto;
+    padding:45px;
+    background:  #fff;
+}
+
+.popup input{
+    margin: 5px 0;
+}
+
+.table span{
+    display:block;
+}
